@@ -23,7 +23,7 @@
     "gary-tsconfig": "workspace:*",
     "gary-tailwind": "workspace:*",
     "@vitejs/plugin-vue": "^5.0.4",
-    "vite": "^5.2.0",
+    "vite": "^5.3.6",
     "vue-tsc": "^2.0.6"
   }
 }
